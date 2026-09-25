@@ -9,8 +9,8 @@ PdfFlow is a responsive PDF workspace for editing, organizing, converting, and m
 ## Preview
 
 <p align="center">
-  <img src="docs/images/pdfflow-home.png" alt="PdfFlow homepage" width="49%" />
-  <img src="docs/images/pdfflow-tools.png" alt="PdfFlow PDF tools" width="49%" />
+  <img src="./Preview/Home.png" alt="PdfFlow homepage" width="100%" />
+  <img src="./Preview/Tools.png" alt="PdfFlow PDF tools" width="100%" />
 </p>
 
 ## Features
